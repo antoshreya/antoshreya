@@ -1,4 +1,4 @@
- ## Hi 👋, I'm Anto Shreya
+ # Hi 👋, I'm Anto Shreya
 
  Cloud & DevOps Enthusiast | Full Stack Developer  
  AWS Certified Cloud Practitioner | AWS Certified Solutions Architect  
