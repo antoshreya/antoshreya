@@ -1,39 +1,39 @@
-# Hi 👋, I'm Anto Shreya
+ Hi 👋, I'm Anto Shreya
 
-💻 Cloud & DevOps Enthusiast | Full Stack Developer  
-☁️ AWS Certified Cloud Practitioner | AWS Certified Solutions Architect  
-🚀 Passionate about MERN Stack, Cloud Computing, and Real-World Applications  
-
----
-
-## 🚀 About Me
-
-- 🎓 BE Computer Science Engineering Student at Sri Eshwar College of Engineering
-- 🌱 Currently exploring Cloud Infrastructure, DevOps, and Full Stack Development
-- 🧠 Learning Kubernetes, Terraform, CI/CD, and Monitoring Tools
-- 🎯 Goal: Becoming a Cloud & Full Stack Engineer
+ Cloud & DevOps Enthusiast | Full Stack Developer  
+ AWS Certified Cloud Practitioner | AWS Certified Solutions Architect  
+ Passionate about MERN Stack, Cloud Computing, and Real-World Applications  
 
 ---
 
-## 🛠️ Tech Stack
+##  About Me
 
-### 💻 Languages
+-  BE Computer Science Engineering Student at Sri Eshwar College of Engineering
+-  Currently exploring Cloud Infrastructure, DevOps, and Full Stack Development
+-  Learning Kubernetes, Terraform, CI/CD, and Monitoring Tools
+-  Goal: Becoming a Cloud & Full Stack Engineer
+
+---
+
+##  Tech Stack
+
+###  Languages
 - C++
 
-### 🌐 Frontend
+###  Frontend
 - React.js
 - HTML5
 - CSS3
 
-### ⚙️ Backend
+###  Backend
 - Node.js
 - Express.js
 
-### 🗄️ Database
+###  Database
 - MongoDB
 - MySQL
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 - AWS
 - Docker
 - GitHub Actions
@@ -43,7 +43,7 @@
 - Prometheus
 - Grafana
 
-### 🔧 Tools
+###  Tools
 - Git & GitHub
 - VS Code
 - Postman
@@ -51,9 +51,9 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🏥 Cloud-Based Healthcare Scheduling Platform
+###  Cloud-Based Healthcare Scheduling Platform
 Developed and deployed a healthcare appointment system with:
 - React frontend hosted on AWS S3
 - Node.js backend deployed on AWS EC2
@@ -66,7 +66,7 @@ React.js | Node.js | Express.js | MongoDB Atlas | AWS S3 | AWS EC2 | Docker | Gi
 
 ---
 
-### 🛡️ InfraGuard – Incident Management System
+###  InfraGuard – Incident Management System
 Built a MERN-based incident management platform featuring:
 - JWT Authentication
 - Role-Based Access Control
@@ -79,16 +79,16 @@ MongoDB | React.js | Node.js | Docker | JWT | Prometheus | Grafana
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥉 Won 3rd Place – C BUILDATHON 2024
-- 🥈 Won 2nd Place – FREASHATHON 2024
-- 💻 Solved 120+ problems on LeetCode
-- ⭐ Solved 534 problems on CodeChef (Rating: 1117)
+-  Won 3rd Place – C BUILDATHON 2024
+-  Won 2nd Place – FREASHATHON 2024
+-  Solved 120+ problems on LeetCode
+-  Solved 534 problems on CodeChef (Rating: 1117)
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect
